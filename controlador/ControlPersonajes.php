@@ -6,7 +6,7 @@ include_once ("Controlador.php");
 
 /* *******************************************************************************************
  
- * CLASE ControladorPersonajes obj2
+ * CLASE ControladorPersonajes obj2  Hey tio q pasa : Cambio 1;
 
  * ***************************************************************************************** */
 
